@@ -19,4 +19,5 @@
 
 ## Контактная информация
 - GitHub: [@staks-sor](https://github.com/staks-sor)
-- Telegram: [@Staks_sor](https://t.me/Staks_sor) 
+- Telegram: [@Staks_sor](https://t.me/Staks_sor)
+- 
